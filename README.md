@@ -1,0 +1,2 @@
+# LWcdNDKMode
+NDK test Demo
